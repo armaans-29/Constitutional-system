@@ -1,4 +1,4 @@
-# Judicial Bail Predictor
+# Judicial Bail Prediction System
 Try it out now !!    https://constitutional-systemm.streamlit.app/
 
 A Streamlit app that gives a preliminary, rule-based assessment of bail eligibility factors for a case, based on common mitigating and aggravating criteria used in Indian criminal procedure. Built with Python and Pandas.
